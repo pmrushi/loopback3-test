@@ -3,5 +3,14 @@
     "name": "db",
     "connector": "memory",
     "file": "data.json"
+  },
+  "accountDS": {
+    "host": "127.0.0.1",
+    "port": 5432,
+    "database": "test",
+    "password": "",
+    "name": "accountDS",
+    "user": "markandayar",
+    "connector": "postgresql"
   }
 }
